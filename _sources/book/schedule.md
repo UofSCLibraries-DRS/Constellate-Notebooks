@@ -1,8 +1,6 @@
-## Schedule (July/August 2021)
+## Schedule (Fall 2021)
 
-**Week 1**
-
-July 20th (Tuesday)
+September 23, Thursday
 * [Getting Started with Jupyter Notebooks](../getting-started-with-jupyter.ipynb)
 * [Python Basics 1](../python-basics-1.ipynb)
 
